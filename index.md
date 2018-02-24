@@ -16,7 +16,7 @@ Details: This project is an independent project during research internship at [L
 
 2. **When Siri Knows How You Feel: Study of Machine Learning in Automatic Sentiment Recognition from Human Speech**
 
-[Full Paper] (https://github.com/zhangliu6/pdfs/blob/master/FICC%202018_Camera%20Ready%20Version_FINAL.pdf), [Research Journal](https://github.com/zhangliu6/pdfs/blob/master/Research%20Journal.pdf)
+[Full Paper](https://github.com/zhangliu6/pdfs/blob/master/FICC%202018_Camera%20Ready%20Version_FINAL.pdf), [Research Journal](https://github.com/zhangliu6/pdfs/blob/master/Research%20Journal.pdf)
 
 Details: This project is an independent project during Nanyang Research Programme. My supervisor/mentor is [Associate Professor NG Yin Kwee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=MYKNG)
 
@@ -42,30 +42,40 @@ Vice-President of Science and Mathematics Council at Anglo-Chinese Junior Colleg
 
 ## Personal Interests
 
-* Writings (selected pieces):
+* Writings (selected pieces)
 
   * Published on school website:
   
-  [My Science Research Experience: The Search beyond Science](https://acjcmaniac.learnaholic.com/?p=19328);
-  
-  [What makes a good person?] (https://acjcmaniac.learnaholic.com/?p=18937);
-
-  [Books?](https://acjcmaniac.learnaholic.com/?p=18945);
-
-  [Guitar Ensemble Annual Repertoire Glissando](https://acjcmaniac.learnaholic.com/?p=17542);
-
-  [International C. B. Paul Quiz (2016) ‘directed’ by SMC: An Insider’s Review](https://acjcmaniac.learnaholic.com/?p=17560);
-
-  [The intersection of the arts and the sciences](https://acjcmaniac.learnaholic.com/?p=17279);
-
-  [Class of 2015: Karthigan Ramatas](https://acjcmaniac.learnaholic.com/?p=17182)
+   [Nanyang Research Programme (NRP) Symposium Official Report]http://acjc.moe.edu.sg/showcase/2017/nanyang-research-project-symposium;
+   [My Science Research Experience: The Search beyond Science](https://acjcmaniac.learnaholic.com/?p=19328);  
+   [What makes a good person?](https://acjcmaniac.learnaholic.com/?p=18937);
+   [Books?](https://acjcmaniac.learnaholic.com/?p=18945);
+   [Guitar Ensemble Annual Repertoire Glissando](https://acjcmaniac.learnaholic.com/?p=17542);
+   [International C. B. Paul Quiz (2016) ‘directed’ by SMC: An Insider’s Review](https://acjcmaniac.learnaholic.com/?p=17560);
+   [The intersection of the arts and the sciences](https://acjcmaniac.learnaholic.com/?p=17279);
+   [Class of 2015: Karthigan Ramatas](https://acjcmaniac.learnaholic.com/?p=17182)
 
   * Personal collections:
-  
-
-Marathons:
+   
+   
+* Marathons
 
 [10k](https://github.com/zhangliu6/pdfs/blob/master/21414.pdf);
-
 [21.1k](https://github.com/zhangliu6/pdfs/blob/master/SCSM%202017%20Cert.pdf)
 
+* Music
+
+Best songs don't need words: https://open.spotify.com/user/21yqzrn6pxgxxycmqnullzvei/playlist/7CoxTkRKZ3UQaMScePOw74?si=GZe7duZIQfa-X1IUToSIMw
+
+* Movies (Psychological Thriller + Scifi + Mystery/Detective)
+*Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)* *Butterfly (2004)*; *Mulholland Drive (2001)*
+
+* Books
+
+ * Currently reading:
+ 
+  *GEB* by Douglas Hofstadter; *QED* by Richard Feynman; *Deep Learning* by Ian Goodfellow
+  
+ * Favorites:
+ 
+  *Think* by Simon Blackburn; *The Book Thief* by Markus Zusak; *Wuthering Heights* by Emily Bronte; *Orlando* by Virginia Woolf; *The Hitchhicker's Guide to The Galaxy*
