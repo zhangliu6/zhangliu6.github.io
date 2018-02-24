@@ -1,5 +1,5 @@
 ## Welcome to my personal page!
 
-You can find links to my research, code, professional experiences, and writings here.
+You can find links to my research, code, professional experiences, and writings here. 
 
-Don't be surprised that you may find out my personal interests as well.
+p.s. Don't be surprised because I have also incldued my personal interests/collections:)
