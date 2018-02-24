@@ -1,10 +1,28 @@
 ## About Me
 
+Find me on: [GitHub](https://github.com/zhangliu6), [GitLab](https://gitlab.com/Liu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
+Email me at zhangliu(dot)sci(at)gmail.com
 
 ## Research
 
-1. Research Intern 
+1. **Emotion Recognition from EEG using Hybrid Deep Neural Netwroks**
+[Project Website](https://sites.google.com/view/liu-zhang/home), [GitLab Repository](https://gitlab.com/mobarakol.islam/Zhang_Liu.git)
 
-2. [When Siri Knows How You Feel: Study of Machine Learning in Automatic Sentiment Recognition from Human Speech](pdfs/FICC 2018_Camera Ready Version_FINAL.pdf)
+Details: This project is an independent project during research internship at [Lab of Medical Mechatronics](http://bioeng.nus.edu.sg/mm/), National University of Singapore. 
 
-##
+2. **When Siri Knows How You Feel: Study of Machine Learning in Automatic Sentiment Recognition from Human Speech**
+[Full Paper] (https://github.com/zhangliu6/pdfs/blob/master/FICC%202018_Camera%20Ready%20Version_FINAL.pdf)
+
+3. Research on Neuroscience of Love
+[Full Papaer]()
+
+4. Autism Spectrum Disorder
+[Full Paper]()
+
+5. 
+[Poster in English](), [Poster in Chinese]()
+
+## Leadership
+
+## Personal Interests
+Marathon
