@@ -40,42 +40,46 @@ President of Mathematics and Computing Club at Anglo-Chinese Junior College
 
 Vice-President of Science and Mathematics Council at Anglo-Chinese Junior College
 
+## Personal Essays
+
+[On My Hometown, Xinjiang]()
+
+[On My Dream, Affective Computing]()
+
+[On My Research, Audio Sentiment Analysis]()
+
+[Other essays]()
+
 ## Personal Interests
 
-* Writings (selected pieces)
-
-  * Published on school website:
+* Writings (published on school website)
   
-   [Nanyang Research Programme (NRP) Symposium Official Report]http://acjc.moe.edu.sg/showcase/2017/nanyang-research-project-symposium;
+   [Nanyang Research Programme (NRP) Symposium Official Report](http://acjc.moe.edu.sg/showcase/2017/nanyang-research-project-symposium);
+   
    [My Science Research Experience: The Search beyond Science](https://acjcmaniac.learnaholic.com/?p=19328);  
+   
    [What makes a good person?](https://acjcmaniac.learnaholic.com/?p=18937);
+   
    [Books?](https://acjcmaniac.learnaholic.com/?p=18945);
+   
    [Guitar Ensemble Annual Repertoire Glissando](https://acjcmaniac.learnaholic.com/?p=17542);
+   
    [International C. B. Paul Quiz (2016) ‘directed’ by SMC: An Insider’s Review](https://acjcmaniac.learnaholic.com/?p=17560);
+   
    [The intersection of the arts and the sciences](https://acjcmaniac.learnaholic.com/?p=17279);
+   
    [Class of 2015: Karthigan Ramatas](https://acjcmaniac.learnaholic.com/?p=17182)
-
-  * Personal collections:
-   
-   
+    
 * Marathons
 
-[10k](https://github.com/zhangliu6/pdfs/blob/master/21414.pdf);
-[21.1k](https://github.com/zhangliu6/pdfs/blob/master/SCSM%202017%20Cert.pdf)
-
-* Music
-
-Best songs don't need words: https://open.spotify.com/user/21yqzrn6pxgxxycmqnullzvei/playlist/7CoxTkRKZ3UQaMScePOw74?si=GZe7duZIQfa-X1IUToSIMw
+   [10k](https://github.com/zhangliu6/pdfs/blob/master/21414.pdf); [21.1k](https://github.com/zhangliu6/pdfs/blob/master/SCSM%202017%20Cert.pdf)
 
 * Movies (Psychological Thriller + Scifi + Mystery/Detective)
-*Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)* *Butterfly (2004)*; *Mulholland Drive (2001)*
+
+   *Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)* *Butterfly (2004)*; *Mulholland Drive (2001)*
 
 * Books
 
- * Currently reading:
- 
-  *GEB* by Douglas Hofstadter; *QED* by Richard Feynman; *Deep Learning* by Ian Goodfellow
+  * Currently reading: *GEB* by Douglas Hofstadter; *QED* by Richard Feynman; *Deep Learning* by Ian Goodfellow
   
- * Favorites:
- 
-  *Think* by Simon Blackburn; *The Book Thief* by Markus Zusak; *Wuthering Heights* by Emily Bronte; *Orlando* by Virginia Woolf; *The Hitchhicker's Guide to The Galaxy*
+  * Favorites: *Think* by Simon Blackburn; *The Book Thief* by Markus Zusak; *Wuthering Heights* by Emily Bronte; *Orlando* by Virginia Woolf; *The Hitchhicker's Guide to The Galaxy*; *Sentiment Analysis* by Liu Bing
