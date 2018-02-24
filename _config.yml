@@ -1,3 +1,14 @@
 theme: jekyll-theme-slate
-title: Welcome to Zhang Liu's homepage!
-description: Here, you can find my current and past projects, research interests, and some personal stories!
+title: Zhang Liu
+description: Welcome to my homepage! Here, you can find (almost) everything about me.
+footer-links:
+  email: zhangliu.sci@gmail.com
+  github: zhangliu6
+  gitlab: Liu6
+  linkedin: peccavi.617@gmail.com
+  rss: Subscribe
+  twitter: ireallyloveELL
+  
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
