@@ -1,8 +1,5 @@
-{{ page.excerpt | markdownify }}
 ## About Me
 
-Find me on: [GitHub](https://github.com/zhangliu6), [GitLab](https://gitlab.com/Liu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
-Email me at zhangliu(dot)sci(at)gmail.com
 
 ## Research
 
