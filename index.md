@@ -28,19 +28,19 @@ Deeplearning.ai Certificates:
 
 Details: This project is an independent project during Nanyang Research Programme. My supervisor/mentor is [Associate Professor NG Yin Kwee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=MYKNG).
 
-#### Awards (at sudent conferences/competitions): 
+* **Awards** (at sudent conferences/competitions): 
 
-**Finalist Award**, [Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher); 
+   * **Finalist Award**, [Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher); 
 
-**Gold Award**, [Nanyang Research Programme Symposium 2016/17](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx); 
+   * **Gold Award**, [Nanyang Research Programme Symposium 2016/17](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx); 
 
-**Bronze Award**, (highest award among Robotics projects), [Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
+   * **Bronze Award**, (highest award among Robotics projects), [Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
 
-**Best Paper Award**, [Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
+   * **Best Paper Award**, [Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
 
-#### Final Publication:
+* **Final Publication:**
 
-[IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
+   * [IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
 
 ***
 
@@ -52,7 +52,7 @@ Details: This project is a group project where I wrote a review paper with other
 
 ***
 
-### Neuroscience research on Autism Spectrum Disorder
+### Neuroscience Research on Autism Spectrum Disorder
 
 [Full Paper](https://github.com/zhangliu6/pdfs/blob/master/Autism%20Spectrum%20Disorder_ACJC_STEP-NUS%20Sunburnst%20Camp%202017.pdf)
 
@@ -60,7 +60,7 @@ Details: This project is a group project where I wrote a review paper with other
 
 ***
 
-### Effects of Broad-spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)
+### Effects of Broad-Spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)
 
 [Poster](https://github.com/zhangliu6/pdfs/blob/master/Pneumonia%20poster%20FINAL.pdf)
 
@@ -104,7 +104,7 @@ College (2016-2017)
 **Team Leader**, RoboCup (2015), SMU Youth Innovation Challenge (2015), National Junior Robotics
 Competition (2014)
 
-## My Ideas
+## Ideas
 
 * Affective Computing 
 
@@ -136,7 +136,7 @@ Competition (2014)
 
    [The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
 
-## My Interests
+## Personal Interests
 
 * Writings (published on school website)
   
