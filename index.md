@@ -28,7 +28,7 @@ Deeplearning.ai Certificates:
 
 Details: This project is an independent project during Nanyang Research Programme. My supervisor/mentor is [Associate Professor NG Yin Kwee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=MYKNG).
 
-* **Awards** (at sudent conferences/competitions): 
+### Awards (at sudent conferences/competitions): 
 
    * **Finalist Award**, [Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher); 
 
@@ -38,7 +38,7 @@ Details: This project is an independent project during Nanyang Research Programm
 
    * **Best Paper Award**, [Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
 
-* **Final Publication:**
+### Final Publication:
 
    * [IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
 
