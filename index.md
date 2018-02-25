@@ -126,9 +126,9 @@ Competition (2014)
 
    [**:Pun**ology](https://github.com/zhangliu6/pdfs/blob/master/Punology.pdf);
 
-   [Orgnaic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
+   [Organic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
 
-   [On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md);
+   [On The Limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md);
 
    [Atoms Vs Words](https://github.com/zhangliu6/pdfs/blob/master/Atoms_vs_Words.md);
 
