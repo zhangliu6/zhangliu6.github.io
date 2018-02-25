@@ -54,33 +54,31 @@ Details: This project is a group project where I wrote a conducted systematic li
 
 ## Leaderships
 
-President, Mathematics and Computing Club, Anglo-Chinese Junior College (2016-2017)
+**President**, Mathematics and Computing Club, Anglo-Chinese Junior College (2016-2017)
 
-Vice-President (Talent Development), Science and Mathematics Council (SMC), Anglo-Chinese Junior
+**Vice-President (Talent Development)**, Science and Mathematics Council (SMC), Anglo-Chinese Junior
 College (2016-2017)
 
-Overall In-Charge (IC), Open House CCA Showcase, CCA Exhibition & CCA Recruitment (2017)
+**Overall In-Charge (IC)**, Open House CCA Showcase, CCA Exhibition & CCA Recruitment (2017)
 
-Event IC, Vietnam Educational Program – SOS Village (2016)
+**Event IC**, Vietnam Educational Program – SOS Village (2016)
 
-Assistant Event IC, Heyday (2016)
+**Assistant Event IC**, Heyday (2016), International C. B. Paul Quiz (2017)
 
-Assistant Event IC and Computer Science Question Setter, International C. B. Paul Quiz (2017)
+**Computer Science Question Setter**, International C. B. Paul Quiz (2017, 2018)
 
-Committee Chairman, International Biomedical Quiz (2016 & 2017), International C. B. Paul Quiz
+**Committee Chairman**, International Biomedical Quiz (2016 & 2017), International C. B. Paul Quiz
 (2016 & 2017), International Young Whizzes Challenge (2016)
 
-Prefect, Student Council Training and Development Committee, Swiss Cottage Secondary School
+**Prefect**, Student Council Training and Development Committee, Swiss Cottage Secondary School
 (2014-2015)
 
-Organizer, Swiss Cottage Secondary School Secondary One Orientation (2014)
+**Organizer**, Swiss Cottage Secondary School Secondary One Orientation (2014), Student Council Recruitment (2014)
 
-Organizer, Student Council Recruitment (2014)
-
-Team Leader, RoboCup (2015), SMU Youth Innovation Challenge (2015), National Junior Robotics
+**Team Leader**, RoboCup (2015), SMU Youth Innovation Challenge (2015), National Junior Robotics
 Competition (2014)
 
-## What's on my mind?
+## Intellectual Interests
 
 * Affective Computing 
 
@@ -100,6 +98,8 @@ Competition (2014)
 
 * Miscellaneous
 
+[**:Pun**ology](https://github.com/zhangliu6/pdfs/blob/master/Punology.pdf)
+
 [Orgnaic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
 
 [On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md)
@@ -110,7 +110,7 @@ Competition (2014)
 
 [The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
 
-## How do I spend my day?
+## Personal Interests
 
 * Writings (published on school website)
   
