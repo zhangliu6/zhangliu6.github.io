@@ -26,6 +26,20 @@ Deeplearning.ai Certificates:
 
 Details: This project is an independent project during Nanyang Research Programme. My supervisor/mentor is [Associate Professor NG Yin Kwee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=MYKNG).
 
+#### Awards (at sudent conferences/competitions): 
+
+**Finalist Award**, [Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher); 
+
+**Gold Award**, [Nanyang Research Programme Symposium 2016/17](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx); 
+
+**Bronze Award**, (highest award among Robotics projects), [Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
+
+**Best Paper Award**, [Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/) (won )
+
+#### Final Publication:
+
+[IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
+
 ### Research on Neuroscience of Love
 
 Details: This project is a group project where I wrote a review paper with other members on neuroscience and emotions. The paper is published in *Brain Book, Chapter 6*. My mentor is [Assistant Professor Jean Liu](https://www.yale-nus.edu.sg/about/faculty/jean-liu/).
