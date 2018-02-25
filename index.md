@@ -1,38 +1,56 @@
 ## About Me
 
-I am currently a research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. 
+I am currently a research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. [View My CV](https://github.com/zhangliu6/pdfs/blob/master/Zhang%20Liu's%20CV_25%20Feb.pdf)
 
 Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
 
 You can email me at zhangliu(dot)sci(at)gmail(dot)com
 
-## Research
+## Projects & Publications
 
-* **Emotion Recognition from EEG using Hybrid Deep Neural Netwroks**
+### **(Current Project) Emotion Recognition from EEG using Hybrid Deep Neural Netwroks**
 
 [Project Website](https://sites.google.com/view/liu-zhang/home), [GitLab Repository](https://gitlab.com/mobarakol.islam/Zhang_Liu.git)
 
 Details: This project is an independent project during research internship at [Lab of Medical Mechatronics](http://bioeng.nus.edu.sg/mm/), National University of Singapore. My supervisor is [Assistant Professor REN Hongliang](http://www.bioeng.nus.edu.sg/people/PI/REN/).
 
-* **When Siri Knows How You Feel: Study of Machine Learning in Automatic Sentiment Recognition from Human Speech**
+Deeplearning.ai Certificates: 
+
+[Course 1: Neural Networks and Deep Learning](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%201%20Certificate.pdf);
+[Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%202%20Certificate.pdf);
+[Course 3: Structuring Machine Learning Projects](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%203%20Certificate.pdf)
+
+### **When Siri Knows How You Feel: Study of Machine Learning in Automatic Sentiment Recognition from Human Speech**
 
 [Full Paper](https://github.com/zhangliu6/pdfs/blob/master/FICC%202018_Camera%20Ready%20Version_FINAL.pdf), [Research Journal](https://github.com/zhangliu6/pdfs/blob/master/Research%20Journal.pdf)
 
 Details: This project is an independent project during Nanyang Research Programme. My supervisor/mentor is [Associate Professor NG Yin Kwee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=MYKNG)
 
-* Research on Neuroscience of Love
+### Research on Neuroscience of Love
 
-Details: This project is an group project where I wrote a review paper with other members on neuroscience and emotions. The paper is published as one of the chapters in the Brain Book 6. My smentor is [Assistant Professor Jean Liu](https://www.yale-nus.edu.sg/about/faculty/jean-liu/)
+Details: This project is a group project where I wrote a review paper with other members on neuroscience and emotions. The paper is published in *Brain Book, Chapter 6*. My mentor is [Assistant Professor Jean Liu](https://www.yale-nus.edu.sg/about/faculty/jean-liu/)
 
 [Full Papaer](https://github.com/zhangliu6/pdfs/blob/master/Neuroscience%20of%20Love_ACJC_Finalised.pdf)
 
-* Autism Spectrum Disorder
+### Neuroscience research on Autism Spectrum Disorder
 
 [Full Paper](https://github.com/zhangliu6/pdfs/blob/master/Autism%20Spectrum%20Disorder_ACJC_STEP-NUS%20Sunburnst%20Camp%202017.pdf)
 
-* Effects of Broad-spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)
+Details: This project is a group project where I wrote a review paper with other members on the current neuroscience research about Autism Spectrum Disorder. This is part of the programme at the NUS Sunburst Brain Camp, a neuroscience summer camp. 
+
+### Effects of Broad-spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)
 
 [Poster](https://github.com/zhangliu6/pdfs/blob/master/Pneumonia%20poster%20FINAL.pdf)
+
+Details: This project is a group project where I wrote a conducted systematic literature review and statistical analysis for the group. We represented Singapore at the Beijing Youth Science Creation Competition and won the Silver Award.
+
+### Girls Dynamite: Girls Making ICT a Lifestyle
+
+[Project Prototype](https://github.com/zhangliu6/pdfs/blob/master/WR_Final.pdf)
+
+### CRADLE Automatic LED System
+
+[Technical Report](https://github.com/zhangliu6/pdfs/blob/master/Technical%20Report.pdf); [Final Arduino Code](https://github.com/zhangliu6/pdfs/blob/master/Final%20Arduino%20Code.pdf); 
 
 ## Leaderships
 
@@ -40,17 +58,37 @@ President of Mathematics and Computing Club at Anglo-Chinese Junior College
 
 Vice-President of Science and Mathematics Council at Anglo-Chinese Junior College
 
-## Personal Essays
+## What's on my mind?
 
-[On My Hometown, Xinjiang]()
+* Affective Computing 
 
-[On My Dream, Affective Computing]()
+[My Story with Affective Computing](https://github.com/zhangliu6/pdfs/blob/master/My%20Aspiration_Affective%20Computing.pdf); 
 
-[On My Research, Audio Sentiment Analysis]()
+[An Intro to Affective Computing, written by me](https://github.com/zhangliu6/pdfs/blob/master/Introduction%20to%20Affective%20Computing.pdf); 
 
-[Other essays]()
+* Linguistics
 
-## Personal Interests
+[Learning Journal, A Level English Langauge and Linguistics Paper 1](https://github.com/zhangliu6/pdfs/blob/master/ELL%20P1.pdf);
+
+[Learning Journal, A Level English Langauge and Linguistics Paper 2](https://github.com/zhangliu6/pdfs/blob/master/ELL%20P2%20Updated.pdf);
+
+[Learning Journal, AP English Language and Composition JHU online course](https://github.com/zhangliu6/pdfs/blob/master/AP%20ELC.pdf%202.zip);
+
+[Some thoughts after taking AP English Language and Composition exam](https://github.com/zhangliu6/pdfs/blob/master/Final%20Process%20Letter.pdf);
+
+* Miscellaneous
+
+[Orgnaic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
+
+[On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md)
+
+[Atoms Vs Words](https://github.com/zhangliu6/pdfs/blob/master/Atoms_vs_Words.md)
+
+[Language 'Evolution'](https://github.com/zhangliu6/pdfs/blob/master/Language_'Evolution'.md)
+
+[The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
+
+## How do I spend my day?
 
 * Writings (published on school website)
   
@@ -69,6 +107,7 @@ Vice-President of Science and Mathematics Council at Anglo-Chinese Junior Colleg
    [The intersection of the arts and the sciences](https://acjcmaniac.learnaholic.com/?p=17279);
    
    [Class of 2015: Karthigan Ramatas](https://acjcmaniac.learnaholic.com/?p=17182)
+   
     
 * Marathons
 
