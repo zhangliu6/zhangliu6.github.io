@@ -4,7 +4,7 @@ I am currently a research intern at Lab of Medical Mechatronics, National Univer
 
 Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
 
-You can email me at zhangliu(dot)sci(at)gmail(dot)com
+You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
 ## Projects & Publications
 
@@ -78,7 +78,7 @@ College (2016-2017)
 **Team Leader**, RoboCup (2015), SMU Youth Innovation Challenge (2015), National Junior Robotics
 Competition (2014)
 
-## Intellectual Interests
+## My Ideas
 
 * Affective Computing 
 
@@ -110,7 +110,7 @@ Competition (2014)
 
 [The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
 
-## Personal Interests
+## My Interests
 
 * Writings (published on school website)
   
@@ -130,18 +130,17 @@ Competition (2014)
    
    [Class of 2015: Karthigan Ramatas](https://acjcmaniac.learnaholic.com/?p=17182)
    
-    
 * Marathons
 
    [10k](https://github.com/zhangliu6/pdfs/blob/master/21414.pdf); [21.1k](https://github.com/zhangliu6/pdfs/blob/master/SCSM%202017%20Cert.pdf)
 
 * Books
 
-  * Currently reading: *GEB* by Douglas Hofstadter; *QED* by Richard Feynman; *Deep Learning* by Ian Goodfellow
+  * Currently reading: *GEB* by Douglas Hofstadter; *QED* and *FLP* by Richard Feynman; *Deep Learning* by Ian Goodfellow
   
-  * Favorites: *Think* by Simon Blackburn; *The Book Thief* by Markus Zusak; *Wuthering Heights* by Emily Bronte; *Orlando* by Virginia Woolf; *The Hitchhicker's Guide to The Galaxy*; *Sentiment Analysis* by Liu Bing
+  * Favorites: *Think* by Simon Blackburn; *The Book Thief* by Markus Zusak; *Wuthering Heights* by Emily Brontë; *Orlando* by Virginia Woolf; *The Hitchhiker's Guide to The Galaxy* by Douglas Adams; *Sentiment Analysis* by Liu Bing
   
 * Movies (Psychological Thriller + Scifi + Mystery/Detective)
 
-   *Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)* *Butterfly (2004)*; *Mulholland Drive (2001)*
+   *Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)*; *Butterfly (2004)*; *Mulholland Drive (2001)*
 
