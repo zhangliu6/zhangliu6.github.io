@@ -28,7 +28,7 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
   Details: This project is an independent project during Nanyang Research Programme. My supervisor/mentor is [Associate Professor NG Yin Kwee](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=MYKNG).
 
-  * Awards (at sudent conferences/competitions): 
+  *Awards (at sudent conferences/competitions):*
   
    [Finalist Award, Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher);
       
@@ -38,13 +38,13 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
     
    [Best Paper Award, Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
 
- * Final Publication:
+  *Final Publication:*
 
    [IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
 
 ***
 
-* Research on Neuroscience of Love
+* **Research on Neuroscience of Love**
 
     [Full Papaer](https://github.com/zhangliu6/pdfs/blob/master/Neuroscience%20of%20Love_ACJC_Finalised.pdf)
 
@@ -52,7 +52,7 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
 ***
 
-* Neuroscience Research on Autism Spectrum Disorder
+* **Neuroscience Research on Autism Spectrum Disorder**
 
     [Full Paper](https://github.com/zhangliu6/pdfs/blob/master/Autism%20Spectrum%20Disorder_ACJC_STEP-NUS%20Sunburnst%20Camp%202017.pdf)
 
@@ -60,7 +60,7 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
 ***
 
-* Effects of Broad-Spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)
+* **Effects of Broad-Spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)**
 
     [Poster](https://github.com/zhangliu6/pdfs/blob/master/Pneumonia%20poster%20FINAL.pdf)
 
@@ -68,13 +68,13 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
 ***
 
-* Girls Dynamite: Girls Making ICT a Lifestyle
+* **Girls Dynamite: Girls Making ICT a Lifestyle**
 
     [Project Prototype](https://github.com/zhangliu6/pdfs/blob/master/WR_Final.pdf)
 
 ***
 
-* CRADLE Automatic LED System
+* **CRADLE Automatic LED System**
 
     [Technical Report](https://github.com/zhangliu6/pdfs/blob/master/Technical%20Report.pdf); [Final Arduino Code](https://github.com/zhangliu6/pdfs/blob/master/Final%20Arduino%20Code.pdf)
 
