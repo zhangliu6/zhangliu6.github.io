@@ -20,6 +20,8 @@ Deeplearning.ai Certificates:
 [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%202%20Certificate.pdf);
 [Course 3: Structuring Machine Learning Projects](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%203%20Certificate.pdf)
 
+***
+
 ### **When Siri Knows How You Feel: Study of Machine Learning in Automatic Sentiment Recognition from Human Speech**
 
 [Full Paper](https://github.com/zhangliu6/pdfs/blob/master/FICC%202018_Camera%20Ready%20Version_FINAL.pdf), [Research Journal](https://github.com/zhangliu6/pdfs/blob/master/Research%20Journal.pdf)
@@ -34,17 +36,21 @@ Details: This project is an independent project during Nanyang Research Programm
 
 **Bronze Award**, (highest award among Robotics projects), [Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
 
-**Best Paper Award**, [Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/) (won )
+**Best Paper Award**, [Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
 
 #### Final Publication:
 
 [IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
 
+***
+
 ### Research on Neuroscience of Love
+
+[Full Papaer](https://github.com/zhangliu6/pdfs/blob/master/Neuroscience%20of%20Love_ACJC_Finalised.pdf)
 
 Details: This project is a group project where I wrote a review paper with other members on neuroscience and emotions. The paper is published in *Brain Book, Chapter 6*. My mentor is [Assistant Professor Jean Liu](https://www.yale-nus.edu.sg/about/faculty/jean-liu/).
 
-[Full Papaer](https://github.com/zhangliu6/pdfs/blob/master/Neuroscience%20of%20Love_ACJC_Finalised.pdf)
+***
 
 ### Neuroscience research on Autism Spectrum Disorder
 
@@ -52,15 +58,21 @@ Details: This project is a group project where I wrote a review paper with other
 
 Details: This project is a group project where I wrote a review paper with other members on the current neuroscience research about Autism Spectrum Disorder. This is part of the programme at the NUS Sunburst Brain Camp, a neuroscience summer camp. 
 
+***
+
 ### Effects of Broad-spectrum Antibiotics on Healthcare-Associated Pneumonia (HCAP)
 
 [Poster](https://github.com/zhangliu6/pdfs/blob/master/Pneumonia%20poster%20FINAL.pdf)
 
 Details: This project is a group project where I wrote a conducted systematic literature review and statistical analysis for the group. We represented Singapore at the Beijing Youth Science Creation Competition and won the Silver Award.
 
+***
+
 ### Girls Dynamite: Girls Making ICT a Lifestyle
 
 [Project Prototype](https://github.com/zhangliu6/pdfs/blob/master/WR_Final.pdf)
+
+***
 
 ### CRADLE Automatic LED System
 
@@ -96,33 +108,33 @@ Competition (2014)
 
 * Affective Computing 
 
-[My Story with Affective Computing](https://github.com/zhangliu6/pdfs/blob/master/My%20Aspiration_Affective%20Computing.pdf); 
+   [My Story with Affective Computing](https://github.com/zhangliu6/pdfs/blob/master/My%20Aspiration_Affective%20Computing.pdf); 
 
-[An Intro to Affective Computing, written by me](https://github.com/zhangliu6/pdfs/blob/master/Introduction%20to%20Affective%20Computing.pdf); 
+   [An Intro to Affective Computing, written by me](https://github.com/zhangliu6/pdfs/blob/master/Introduction%20to%20Affective%20Computing.pdf); 
 
 * Linguistics
 
-[Learning Journal, A Level English Langauge and Linguistics Paper 1](https://github.com/zhangliu6/pdfs/blob/master/ELL%20P1.pdf);
+   [Learning Journal, A Level English Langauge and Linguistics Paper 1](https://github.com/zhangliu6/pdfs/blob/master/ELL%20P1.pdf);
 
-[Learning Journal, A Level English Langauge and Linguistics Paper 2](https://github.com/zhangliu6/pdfs/blob/master/ELL%20P2%20Updated.pdf);
+   [Learning Journal, A Level English Langauge and Linguistics Paper 2](https://github.com/zhangliu6/pdfs/blob/master/ELL%20P2%20Updated.pdf);
 
-[Learning Journal, AP English Language and Composition JHU online course](https://github.com/zhangliu6/pdfs/blob/master/AP%20ELC.pdf%202.zip);
+   [Learning Journal, AP English Language and Composition JHU online course](https://github.com/zhangliu6/pdfs/blob/master/AP%20ELC.pdf%202.zip);
 
-[Some thoughts after taking AP English Language and Composition exam](https://github.com/zhangliu6/pdfs/blob/master/Final%20Process%20Letter.pdf);
+   [Some thoughts after taking AP English Language and Composition exam](https://github.com/zhangliu6/pdfs/blob/master/Final%20Process%20Letter.pdf);
 
 * Miscellaneous
 
-[**:Pun**ology](https://github.com/zhangliu6/pdfs/blob/master/Punology.pdf)
+   [**:Pun**ology](https://github.com/zhangliu6/pdfs/blob/master/Punology.pdf)
 
-[Orgnaic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
+   [Orgnaic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
 
-[On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md)
+   [On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md)
 
-[Atoms Vs Words](https://github.com/zhangliu6/pdfs/blob/master/Atoms_vs_Words.md)
+   [Atoms Vs Words](https://github.com/zhangliu6/pdfs/blob/master/Atoms_vs_Words.md)
 
-[Language 'Evolution'](https://github.com/zhangliu6/pdfs/blob/master/Language_'Evolution'.md)
+   [Language 'Evolution'](https://github.com/zhangliu6/pdfs/blob/master/Language_'Evolution'.md)
 
-[The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
+   [The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
 
 ## My Interests
 
@@ -148,13 +160,23 @@ Competition (2014)
 
    [10k](https://github.com/zhangliu6/pdfs/blob/master/21414.pdf); [21.1k](https://github.com/zhangliu6/pdfs/blob/master/SCSM%202017%20Cert.pdf)
 
-* Books
+* Books (AI, Philosophy, Linguistics, Detective Fiction, Scifi, Classics)
 
-  * Currently reading: *GEB* by Douglas Hofstadter; *QED* and *FLP* by Richard Feynman; *Deep Learning* by Ian Goodfellow
+  * Currently reading: 
+    *GEB* by Douglas Hofstadter; 
+    *QED* and *FLP* by Richard Feynman; 
+    *Deep Learning* by Ian Goodfellow
   
-  * Favorites: *Think* by Simon Blackburn; *The Book Thief* by Markus Zusak; *Wuthering Heights* by Emily Brontë; *Orlando* by Virginia Woolf; *The Hitchhiker's Guide to The Galaxy* by Douglas Adams; *Sentiment Analysis* by Liu Bing
+  * Favorites: 
+    *Think* by Simon Blackburn; 
+    *The Book Thief* by Markus Zusak; 
+    *Wuthering Heights* by Emily Brontë; 
+    *Orlando* by Virginia Woolf; 
+    *The Hitchhiker's Guide to The Galaxy* by Douglas Adams; 
+    *Sentiment Analysis* by Liu Bing; 
+    *1984* by George Orwell; 
+    *The Greek Coffin Mystery* by Ellery Queen
   
-* Movies (Psychological Thriller + Scifi + Mystery/Detective)
+* Movies (Psychological Thriller, Scifi, Mystery)
 
    *Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)*; *Butterfly (2004)*; *Mulholland Drive (2001)*
-
