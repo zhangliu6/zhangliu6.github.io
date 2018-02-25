@@ -110,7 +110,7 @@ Competition (2014)
 
    [My Story with Affective Computing](https://github.com/zhangliu6/pdfs/blob/master/My%20Aspiration_Affective%20Computing.pdf); 
 
-   [An Intro to Affective Computing, written by me](https://github.com/zhangliu6/pdfs/blob/master/Introduction%20to%20Affective%20Computing.pdf); 
+   [An Intro to Affective Computing, written by me](https://github.com/zhangliu6/pdfs/blob/master/Introduction%20to%20Affective%20Computing.pdf)
 
 * Linguistics
 
@@ -120,19 +120,19 @@ Competition (2014)
 
    [Learning Journal, AP English Language and Composition JHU online course](https://github.com/zhangliu6/pdfs/blob/master/AP%20ELC.pdf%202.zip);
 
-   [Some thoughts after taking AP English Language and Composition exam](https://github.com/zhangliu6/pdfs/blob/master/Final%20Process%20Letter.pdf);
+   [Some thoughts after taking AP English Language and Composition exam](https://github.com/zhangliu6/pdfs/blob/master/Final%20Process%20Letter.pdf)
 
 * Miscellaneous
 
-   [**:Pun**ology](https://github.com/zhangliu6/pdfs/blob/master/Punology.pdf)
+   [**:Pun**ology](https://github.com/zhangliu6/pdfs/blob/master/Punology.pdf);
 
    [Orgnaic Chemistry Mindmap](https://github.com/zhangliu6/pdfs/blob/master/IMG_9163.jpg);
 
-   [On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md)
+   [On the limitations of NLP](https://github.com/zhangliu6/pdfs/blob/master/On_Limitations_of_NLP.md);
 
-   [Atoms Vs Words](https://github.com/zhangliu6/pdfs/blob/master/Atoms_vs_Words.md)
+   [Atoms Vs Words](https://github.com/zhangliu6/pdfs/blob/master/Atoms_vs_Words.md);
 
-   [Language 'Evolution'](https://github.com/zhangliu6/pdfs/blob/master/Language_'Evolution'.md)
+   [Language 'Evolution'](https://github.com/zhangliu6/pdfs/blob/master/Language_'Evolution'.md);
 
    [The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
 
