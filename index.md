@@ -34,7 +34,7 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
       
    &nbsp;&nbsp;&nbsp;&nbsp;[Gold Award, Nanyang Research Programme Symposium 2016/17](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx); 
       
-   &nbsp;&nbsp;&nbsp;&nbsp;[Bronze Award, (highest award among Robotics projects), Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
+   &nbsp;&nbsp;&nbsp;&nbsp;[Bronze Award, (highest in Robotics category), Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
     
    &nbsp;&nbsp;&nbsp;&nbsp;[Best Paper Award, Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
 
