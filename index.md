@@ -8,7 +8,7 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
 ## Projects & Publications
 
-* **(Current Project) Emotion Recognition from EEG using Hybrid Deep Neural Netwroks**
+* **(Current Project) Emotion Recognition from EEG using Hybrid Deep Neural Networks**
 
   [Project Website](https://sites.google.com/view/liu-zhang/home), [GitLab Repository](https://gitlab.com/mobarakol.islam/Zhang_Liu.git)
 
