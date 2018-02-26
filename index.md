@@ -30,17 +30,17 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
   *Awards (at sudent conferences/competitions):*
   
-   [Finalist Award, Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher);
+   &nbsp;&nbsp;&nbsp;&nbsp;[Finalist Award, Dongrun-Yau Science Award 2017 (Computer Science Award)](http://www.yau-awards.science/?page_id=3630#pll_switcher);
       
-   [Gold Award, Nanyang Research Programme Symposium 2016/17](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx); 
+   &nbsp;&nbsp;&nbsp;&nbsp;[Gold Award, Nanyang Research Programme Symposium 2016/17](http://www.ntu.edu.sg/TalentOutreach/NRP/Pages/index.aspx); 
       
-   [Bronze Award, (highest award among Robotics projects), Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
+   &nbsp;&nbsp;&nbsp;&nbsp;[Bronze Award, (highest award among Robotics projects), Singapore Science and Engineering Fair 2017](http://www.science.edu.sg/events/Pages/SSEFAwardWinners2017.aspx);
     
-   [Best Paper Award, Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
+   &nbsp;&nbsp;&nbsp;&nbsp;[Best Paper Award, Student conference IRC-SET 2017 (ASTAR Sponsored)](http://ircset.org/main/conference-2017/)
 
   *Final Publication:*
 
-   [IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
+   &nbsp;&nbsp;&nbsp;&nbsp;[IEEE Sponsored FICC 2018](http://saiconference.com/FICC2018/Agenda) (expected to be published in the proceedings after the conference on April 5-6, 2018)
 
 ***
 
@@ -80,28 +80,28 @@ You can email me at zhangliu(dot)sci(at)gmail(dot)com.
 
 ## Leaderships
 
-  **President**, Mathematics and Computing Club, Anglo-Chinese Junior College (2016-2017)
+  &nbsp;&nbsp;&nbsp;&nbsp;**President**, Mathematics and Computing Club, Anglo-Chinese Junior College (2016-2017)
 
-  **Vice-President (Talent Development)**, Science and Mathematics Council (SMC), Anglo-Chinese Junior
+  &nbsp;&nbsp;&nbsp;&nbsp;**Vice-President (Talent Development)**, Science and Mathematics Council (SMC), Anglo-Chinese Junior
 College (2016-2017)
 
-  **Overall In-Charge (IC)**, Open House CCA Showcase, CCA Exhibition & CCA Recruitment (2017)
+  &nbsp;&nbsp;&nbsp;&nbsp;**Overall In-Charge (IC)**, Open House CCA Showcase, CCA Exhibition & CCA Recruitment (2017)
 
-  **Event IC**, Vietnam Educational Program – SOS Village (2016)
+  &nbsp;&nbsp;&nbsp;&nbsp;**Event IC**, Vietnam Educational Program – SOS Village (2016)
 
-  **Assistant Event IC**, Heyday (2016), International C. B. Paul Quiz (2017)
+  &nbsp;&nbsp;&nbsp;&nbsp;**Assistant Event IC**, Heyday (2016), International C. B. Paul Quiz (2017)
 
-  **Computer Science Question Setter**, International C. B. Paul Quiz (2017, 2018)
+  &nbsp;&nbsp;&nbsp;&nbsp;**Computer Science Question Setter**, International C. B. Paul Quiz (2017, 2018)
 
-  **Committee Chairman**, International Biomedical Quiz (2016 & 2017), International C. B. Paul Quiz
+  &nbsp;&nbsp;&nbsp;&nbsp;**Committee Chairman**, International Biomedical Quiz (2016 & 2017), International C. B. Paul Quiz
 (2016 & 2017), International Young Whizzes Challenge (2016)
 
-  **Prefect**, Student Council Training and Development Committee, Swiss Cottage Secondary School
+  &nbsp;&nbsp;&nbsp;&nbsp;**Prefect**, Student Council Training and Development Committee, Swiss Cottage Secondary School
 (2014-2015)
 
-  **Organizer**, Swiss Cottage Secondary School Secondary One Orientation (2014), Student Council Recruitment (2014)
+  &nbsp;&nbsp;&nbsp;&nbsp;**Organizer**, Swiss Cottage Secondary School Secondary One Orientation (2014), Student Council Recruitment (2014)
   
-  **Team Leader**, RoboCup (2015), SMU Youth Innovation Challenge (2015), National Junior Robotics
+  &nbsp;&nbsp;&nbsp;&nbsp;**Team Leader**, RoboCup (2015), SMU Youth Innovation Challenge (2015), National Junior Robotics
 Competition (2014)
 
 ## Ideas
