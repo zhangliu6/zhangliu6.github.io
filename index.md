@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. [View My CV](https://github.com/zhangliu6/pdfs/blob/master/Zhang%20Liu's%20CV_25%20Feb.pdf)
+I am currently a research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. [View My CV](https://github.com/zhangliu6/pdfs/blob/master/Zhang%20Liu's%20CV_1%20March.pdf)
 
 Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
 
