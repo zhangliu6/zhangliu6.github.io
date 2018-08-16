@@ -1,24 +1,22 @@
 ## About Me
 
-I am currently a research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. [View My CV](https://github.com/zhangliu6/pdfs/blob/master/Zhang%20Liu's%20CV_1%20March.pdf)
+I am currently a freshman at [Yale-NUS College](https://www.yale-nus.edu.sg). Prior to college, I worked as a full-time research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. 
+
+[View My CV]() 
+
+[View My deeplearning.ai Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/3PAXFXZG7WAZ)
 
 Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
 
-You can email me at zhangliu(dot)sci(at)gmail(dot)com.
+You can email me at zhangliu(at)u(dot)yale-nus(dot)edu(dot)sg.
 
 ## Projects & Publications
 
-* **(Current Project) Emotion Recognition from EEG using Hybrid Deep Neural Networks**
+* **Emotion Recognition from EEG using Hybrid Deep Neural Networks**
 
   [Project Website](https://sites.google.com/view/liu-zhang/home), [GitLab Repository](https://gitlab.com/mobarakol.islam/Zhang_Liu.git)
 
   Details: This project is an independent project during research internship at [Lab of Medical Mechatronics](http://bioeng.nus.edu.sg/mm/), National University of Singapore. My supervisor is [Assistant Professor REN Hongliang](http://www.bioeng.nus.edu.sg/people/PI/REN/).
-
-  Deeplearning.ai Certificates: 
-
-  [Course 1: Neural Networks and Deep Learning](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%201%20Certificate.pdf);
-  [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%202%20Certificate.pdf);
-  [Course 3: Structuring Machine Learning Projects](https://github.com/zhangliu6/pdfs/blob/master/Deeplearning%20Course%203%20Certificate.pdf)
 
 ***
 
