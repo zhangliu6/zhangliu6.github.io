@@ -104,6 +104,8 @@ Competition (2014)
 
 ## Ideas
 
+[(Primary) My Idea Blog](zhangliu6.silvrback.com), where I share any random ideas and thoughts my brain is obsessed with.
+
 * Affective Computing 
 
     [My Story with Affective Computing](https://github.com/zhangliu6/pdfs/blob/master/My%20Aspiration_Affective%20Computing.pdf); 
@@ -136,7 +138,7 @@ Competition (2014)
 
 ## Personal Interests
 
-* Writings (published on school website)
+* More Writings 
   
     [Nanyang Research Programme (NRP) Symposium Official Report](http://acjc.moe.edu.sg/showcase/2017/nanyang-research-project-symposium);
    
