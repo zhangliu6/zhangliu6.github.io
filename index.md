@@ -2,7 +2,7 @@
 
 I am currently a freshman at [Yale-NUS College](https://www.yale-nus.edu.sg). Prior to college, I worked as a full-time research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. 
 
-[View My CV]() 
+[View My CV](https://github.com/zhangliu6/pdfs/blob/master/Zhang%20Liu's%20CV__16%20Aug.pdf) 
 
 [View My deeplearning.ai Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/3PAXFXZG7WAZ)
 
