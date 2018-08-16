@@ -104,7 +104,7 @@ Competition (2014)
 
 ## Ideas
 
-[(Primary) My Idea Blog](zhangliu6.silvrback.com), where I share any random ideas and thoughts my brain is obsessed with.
+[My Idea Blog (Primary)](zhangliu6.silvrback.com), where I share any random ideas and thoughts my brain is obsessed with.
 
 * Affective Computing 
 
