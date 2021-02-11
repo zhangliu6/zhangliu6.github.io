@@ -22,7 +22,7 @@ You can email me at zhangliu(at)u(dot)yale-nus(dot)edu(dot)sg.
   
 * **Numerical Exponential Polynomials**
 
-This project focused on the relative growth of terms in exponential polynomials. In different regions of the complex plane, dierent terms of an exponential polynomial dominate others. I used analytic and geometric arguments to compare the relative dominance of terms.
+This project focused on the relative growth of terms in exponential polynomials. In different regions of the complex plane, different terms of an exponential polynomial dominate others. I used analytic and geometric arguments to compare the relative dominance of terms.
 
 For research outputs, please refer to my [report](https://github.com/zhangliu6/pdfs/blob/master/rank-terms-liu.pdf) and [expository notes on Complex Analysis](https://github.com/zhangliu6/pdfs/blob/master/notes-on-complex-analysis-liu.pdf).
 
@@ -30,7 +30,7 @@ For research outputs, please refer to my [report](https://github.com/zhangliu6/p
 
 * **Hybrid Analytical-Numerical Integration**
 
-This project focused on Julia library for exponential sums and survey of Langer's work. I implemented a Julia library providing for the efficient description and algebra of exponential sums. Exponential sums are exponential polynomials in which each polynomial coecient is a complex constant. I also surveyed Langer's (1931) paper on the asymptotic locus of zeros of such functions.
+This project focused on Julia library for exponential sums and survey of Langer's work. I implemented a Julia library providing for the efficient description and algebra of exponential sums. Exponential sums are exponential polynomials in which each polynomial coefficient is a complex constant. I also surveyed Langer's (1931) paper on the asymptotic locus of zeros of such functions.
 
 For research outputs, please refer to my [report](https://www.unifiedtransformlab.com/outputs.html#Zha2019a) and [code](https://www.unifiedtransformlab.com/outputs.html#Zha2019b).
 
