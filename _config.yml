@@ -3,3 +3,5 @@ title: Zhang Liu
 description: Welcome to my personal page!
 twitter_username: ireallyloveELL
 github_username: zhangliu6
+- name: Deploy to GitHub Pages
+  uses: JamesIves/github-pages-deploy-action@4.0.0
