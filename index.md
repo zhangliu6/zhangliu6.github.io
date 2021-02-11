@@ -1,16 +1,46 @@
 ## About Me
 
-I am currently a freshman at [Yale-NUS College](https://www.yale-nus.edu.sg). Prior to college, I worked as a full-time research intern at Lab of Medical Mechatronics, National University of Singapore. My primary research interests include Machine Learning, Affective Computing, and Cognitive Science. 
+I am currently a freshman at [Yale-NUS College](https://www.yale-nus.edu.sg). My interests are in the intersection of Mathematics, Theoretical Computer Science, and Theoretical Linguistics. 
 
-[View My CV](https://github.com/zhangliu6/pdfs/blob/master/Zhang%20Liu's%20CV__16%20Aug.pdf) 
+[View My CV](https://github.com/zhangliu6/pdfs/blob/master/Liu%20Zhang%20-%20CV.pdf) 
 
 [View My deeplearning.ai Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/3PAXFXZG7WAZ)
 
-Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/), [Twitter](https://twitter.com/ireallyloveELL)
+Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/).
 
 You can email me at zhangliu(at)u(dot)yale-nus(dot)edu(dot)sg.
 
 ## Projects & Publications
+
+* **(current project) Persistent Homology of Semantic Spaces**
+
+  Details: This is a research module on the topic of Topological Data Analysis (TDA). The aim of the project is to investigate the effectiveness of applying methods in the emerging feld of TDA to solve problems that involve natural language data. We will study the state-of-the-art method of persistent homology and several notable applications in computational analysis of natural language. In particular, we hope to investigate how effective the topological approach is compared to the traditional regression-based tools and why, which is still an open problem (Savle et al., 2019). In this project, we study the mathematical foundations of the state-of-the-art methods in topological data analysis as well as the existing semantic space models. Further, we aim to investigate the effectiveness of these methods as well as to propose and possibly implement some improvements.
+  
+  Topics to be studied include: point-set topology, algebraic topology, persistence, homology, simplicial complex, the persistence algorithms, semantic space models.
+
+***
+  
+* **Numerical Exponential Polynomials**
+
+This project focused on the relative growth of terms in exponential polynomials. In different regions of the complex plane, dierent terms of an exponential polynomial dominate others. I used analytic and geometric arguments to compare the relative dominance of terms.
+
+For research outputs, please refer to my [report](https://github.com/zhangliu6/pdfs/blob/master/rank-terms-liu.pdf) and [expository notes on Complex Analysis](https://github.com/zhangliu6/pdfs/blob/master/notes-on-complex-analysis-liu.pdf).
+
+***
+
+* **Hybrid Analytical-Numerical Integration**
+
+This project focused on Julia library for exponential sums and survey of Langer's work. I implemented a Julia library providing for the efficient description and algebra of exponential sums. Exponential sums are exponential polynomials in which each polynomial coecient is a complex constant. I also surveyed Langer's (1931) paper on the asymptotic locus of zeros of such functions.
+
+For research outputs, please refer to my [report](https://www.unifiedtransformlab.com/outputs.html#Zha2019a) and [code](https://www.unifiedtransformlab.com/outputs.html#Zha2019b).
+
+***
+
+* **Digital Gazetteer Project at Yale Digital Humanities Lab**
+
+In this project worked with my colleagues at the Yale Digital Humanities Lab on the Digital Gazetteer Project. I built the geocoding database for the project and acquired skills in essential tools in Digital Humanities, including text mining and processing, ArcGIS, Augmented Reality using Unity game engine, user design principles. I also attended weekly meetings and various workshops organized by the Yale Digital Humanities Lab and the Yale Library.
+
+*** 
 
 * **Emotion Recognition from EEG using Hybrid Deep Neural Networks**
 
@@ -66,15 +96,13 @@ You can email me at zhangliu(at)u(dot)yale-nus(dot)edu(dot)sg.
 
 ***
 
-* **Girls Dynamite: Girls Making ICT a Lifestyle**
-
-    [Project Prototype](https://github.com/zhangliu6/pdfs/blob/master/WR_Final.pdf)
-
-***
 
 * **CRADLE Automatic LED System**
 
     [Technical Report](https://github.com/zhangliu6/pdfs/blob/master/Technical%20Report.pdf); [Final Arduino Code](https://github.com/zhangliu6/pdfs/blob/master/Final%20Arduino%20Code.pdf)
+
+
+
 
 ## Leaderships
 
@@ -104,7 +132,7 @@ Competition (2014)
 
 ## Ideas
 
-[My Idea Blog (Primary)](zhangliu6.silvrback.com), where I share any random ideas and thoughts my brain is obsessed with.
+[My Idea Blog (Primary)](shanti.silvrback.com), where I share any random ideas and thoughts my brain is obsessed with.
 
 * Affective Computing 
 
@@ -136,47 +164,3 @@ Competition (2014)
 
    [The Importance of Being Futuristic, or Foolish](https://github.com/zhangliu6/pdfs/blob/master/The_Importance_of_Being_Futuristic_or_Foolish.md)
 
-## Personal Interests
-
-* More Writings 
-  
-    [Nanyang Research Programme (NRP) Symposium Official Report](http://acjc.moe.edu.sg/showcase/2017/nanyang-research-project-symposium);
-   
-    [My Science Research Experience: The Search beyond Science](https://acjcmaniac.learnaholic.com/?p=19328);  
-   
-    [What makes a good person](https://acjcmaniac.learnaholic.com/?p=18937);
-   
-    [Books](https://acjcmaniac.learnaholic.com/?p=18945);
-    
-    [Guitar Ensemble Annual Repertoire Glissando](https://acjcmaniac.learnaholic.com/?p=17542);
-   
-    [International C. B. Paul Quiz (2016) ‘directed’ by SMC: An Insider’s Review](https://acjcmaniac.learnaholic.com/?p=17560);
-    
-    [The intersection of the arts and the sciences](https://acjcmaniac.learnaholic.com/?p=17279);
-    
-    [Class of 2015: Karthigan Ramatas](https://acjcmaniac.learnaholic.com/?p=17182)
-   
-* Marathons
-
-    [10k](https://github.com/zhangliu6/pdfs/blob/master/21414.pdf); [21.1k](https://github.com/zhangliu6/pdfs/blob/master/SCSM%202017%20Cert.pdf)
-
-* Books (AI, Philosophy, Linguistics, Detective Fiction, Scifi, Classics)
-
-  * Currently reading: 
-    *GEB* by Douglas Hofstadter; 
-    *QED* and *FLP* by Richard Feynman; 
-    *Deep Learning* by Ian Goodfellow
-  
-  * Favorites: 
-    *Think* by Simon Blackburn; 
-    *The Book Thief* by Markus Zusak; 
-    *Wuthering Heights* by Emily Brontë; 
-    *Orlando* by Virginia Woolf; 
-    *The Hitchhiker's Guide to The Galaxy* by Douglas Adams; 
-    *Sentiment Analysis* by Liu Bing; 
-    *1984* by George Orwell; 
-    *The Greek Coffin Mystery* by Ellery Queen
-  
-* Movies (Psychological Thriller, Scifi, Mystery)
-
-    *Arrival (2017)*; *Coherence (2013)*; *Her (2013)*; *Black Swan (2010)*; *Butterfly (2004)*; *Mulholland Drive (2001)*
