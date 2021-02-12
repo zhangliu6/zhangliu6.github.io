@@ -1,6 +1,6 @@
 ## About Me
 
-I am currently a freshman at [Yale-NUS College](https://www.yale-nus.edu.sg). My interests are in the intersection of Mathematics, Theoretical Computer Science, and Theoretical Linguistics. 
+I am currently a Junior at [Yale-NUS College](https://www.yale-nus.edu.sg). My current research interests are in the intersection of Mathematics, Theoretical Computer Science, and Linguistics. 
 
 [View My CV](https://github.com/zhangliu6/pdfs/blob/master/Liu%20Zhang%20-%20CV.pdf) and [detailed descriptions about my academic courses and research experiences](https://github.com/zhangliu6/pdfs/blob/master/A%20Complete%20List%20of%20Academic%20and%20Research%20Experiences.pdf). 
 
