@@ -14,9 +14,9 @@ You can email me at zhangliu(at)u(dot)yale-nus(dot)edu(dot)sg.
 
 * **(current project) Persistent Homology of Semantic Spaces**
 
-  Details: This is a research module on the topic of Topological Data Analysis (TDA). The aim of the project is to investigate the effectiveness of applying methods in the emerging feld of TDA to solve problems that involve natural language data. We will study the state-of-the-art method of persistent homology and several notable applications in computational analysis of natural language. In particular, we hope to investigate how effective the topological approach is compared to the traditional regression-based tools and why, which is still an open problem (Savle et al., 2019). In this project, we study the mathematical foundations of the state-of-the-art methods in topological data analysis as well as the existing semantic space models. Further, we aim to investigate the effectiveness of these methods as well as to propose and possibly implement some improvements.
+Details: This is a research module on the topic of Topological Data Analysis (TDA). The aim of the project is to investigate the effectiveness of applying methods in the emerging feld of TDA to solve problems that involve natural language data. We will study the state-of-the-art method of persistent homology and several notable applications in computational analysis of natural language. In particular, we hope to investigate how effective the topological approach is compared to the traditional regression-based tools and why, which is still an open problem (Savle et al., 2019). In this project, we study the mathematical foundations of the state-of-the-art methods in topological data analysis as well as the existing semantic space models. Further, we aim to investigate the effectiveness of these methods as well as to propose and possibly implement some improvements.
   
-  Topics to be studied include: point-set topology, algebraic topology, persistence, homology, simplicial complex, the persistence algorithms, semantic space models.
+Topics to be studied include: point-set topology, algebraic topology, persistence, homology, simplicial complex, the persistence algorithms, semantic space models.
 
 ***
   
