@@ -2,7 +2,7 @@
 
 I am currently a freshman at [Yale-NUS College](https://www.yale-nus.edu.sg). My interests are in the intersection of Mathematics, Theoretical Computer Science, and Theoretical Linguistics. 
 
-[View My CV](https://github.com/zhangliu6/pdfs/blob/master/Liu%20Zhang%20-%20CV.pdf) 
+[View My CV](https://github.com/zhangliu6/pdfs/blob/master/Liu%20Zhang%20-%20CV.pdf) and [detailed descriptions about my academic courses and research experiences](https://github.com/zhangliu6/pdfs/blob/master/A%20Complete%20List%20of%20Academic%20and%20Research%20Experiences.pdf). 
 
 [View My deeplearning.ai Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/3PAXFXZG7WAZ)
 
@@ -100,7 +100,6 @@ In this project worked with my colleagues at the Yale Digital Humanities Lab on 
 * **CRADLE Automatic LED System**
 
     [Technical Report](https://github.com/zhangliu6/pdfs/blob/master/Technical%20Report.pdf); [Final Arduino Code](https://github.com/zhangliu6/pdfs/blob/master/Final%20Arduino%20Code.pdf)
-
 
 
 
