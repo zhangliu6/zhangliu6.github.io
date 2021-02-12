@@ -6,7 +6,7 @@ I am currently a Junior at [Yale-NUS College](https://www.yale-nus.edu.sg). My c
 
 [View My deeplearning.ai Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/3PAXFXZG7WAZ)
 
-Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhangliu6), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/).
+Find me on: [GitLab (primary site)](https://gitlab.com/Liu6), [GitHub](https://github.com/zhang-liu-official), [LinkedIn](https://www.linkedin.com/in/liu-zhang-384a85132/).
 
 You can email me at zhangliu(at)u(dot)yale-nus(dot)edu(dot)sg.
 
