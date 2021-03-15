@@ -19,6 +19,24 @@ Details: This is a research module on the topic of Topological Data Analysis (TD
 Topics to be studied include: point-set topology, algebraic topology, persistence, homology, simplicial complex, the persistence algorithms, semantic space models.
 
 ***
+
+* **(current project) Independent Reading and Research on Infinite Groups**
+
+The following topics are included: free groups and finitely presented groups, group theoretical classes and closure operations, Abelian groups, decomposition of groups, series, calculus of commutators, introduction to soluble groups, introduction to nilpotent groups, introduction to braid groups, and application of braid groups.
+
+***
+(Long-term Personal Passion Project) \emph{\textbf{The Panini Machine.}}
+		 
+Overview: In this project, I will attempt to use mathematical and computational methods to implement the Sanskrit linguistic system. The Sanskrit language was first formalized by the Indian linguist Panini (and hence the name of this project). My plan is to study the mechanics of Sanskrit and at the same time the relevant technical methods which I have broadly classified into the probabilistic approach and the deterministic approach.
+
+I think of this project as a convergence of my interests. If we consider each of the disciplines a wood plank stacked on top of another, then the current project is my ongoing experiment to locate the "center of gravity" where a balanced state can be achieved. 
+		 
+The significance of this project is two-fold. First, there is an increased interest in ancient Indian thought and traditions. However, many scholars are deterred by the lack of readily translated texts and the difficulties involved in learning Sanskrit. By implementing the grammatical system of Sanskrit, it is hoped that we can contribute to the task of Machine Translation in Sanskrit. The second and more important significance is the potential contribution to the current theories in Natural Language Processing (NLP), and more generally Artificial Intelligence. Most of the methods in NLP make use of probabilistic models to deal with the uncertainties in languages. Unlike most of these commonly spoken languages, Sanskrit is very peculiar in that it is highly systematic and even deterministic in nature, which could lead to some interesting alternatives to this probabilistic way of thinking. 
+		 
+For more details, see [my gitbook documentation](https://zhangliu.gitbook.io/the-panini-machine/).
+		 
+
+***
   
 * **Numerical Exponential Polynomials**
 
@@ -131,7 +149,7 @@ Competition (2014)
 
 ## Ideas
 
-[My Idea Blog (Primary)](shanti.silvrback.com), where I share any random ideas and thoughts my brain is obsessed with.
+[My Idea Blog (Primary)](https://shanti.silvrback.com/), where I share any random ideas and thoughts my brain is obsessed with.
 
 * Affective Computing 
 
