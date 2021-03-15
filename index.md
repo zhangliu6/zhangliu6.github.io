@@ -25,7 +25,8 @@ Topics to be studied include: point-set topology, algebraic topology, persistenc
 The following topics are included: free groups and finitely presented groups, group theoretical classes and closure operations, Abelian groups, decomposition of groups, series, calculus of commutators, introduction to soluble groups, introduction to nilpotent groups, introduction to braid groups, and application of braid groups.
 
 ***
-(Long-term Personal Passion Project) \emph{\textbf{The Panini Machine.}}
+
+* **(Long-term Personal Passion Project) The Pāṇini Machine**
 		 
 Overview: In this project, I will attempt to use mathematical and computational methods to implement the Sanskrit linguistic system. The Sanskrit language was first formalized by the Indian linguist Panini (and hence the name of this project). My plan is to study the mechanics of Sanskrit and at the same time the relevant technical methods which I have broadly classified into the probabilistic approach and the deterministic approach.
 
@@ -35,7 +36,6 @@ The significance of this project is two-fold. First, there is an increased inter
 		 
 For more details, see [my gitbook documentation](https://zhangliu.gitbook.io/the-panini-machine/).
 		 
-
 ***
   
 * **Numerical Exponential Polynomials**
